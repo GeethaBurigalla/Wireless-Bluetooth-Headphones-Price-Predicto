@@ -119,7 +119,7 @@ jupyter notebook Headphones_price_prediction.ipynb
 | Name | GitHub |
 |------|--------|
 | Geetha Burigalla | [@GeethaBurigalla](https://github.com/GeethaBurigalla) |
-| An Chowdary | [@anchowdary-04](https://github.com/anchowdary-04) |
+| Nisha Chowdary | [@anchowdary-04](https://github.com/anchowdary-04) |
 
 ---
 
